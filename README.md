@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Vedang Dhuri
 ### *Welcome to My Professional Portfolio & Interactive Showcase*
 
-[![Live Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://visit-1vedang.onrender.com/)
+[![Live Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://visit-portfolio-1vedang.onrender.com/)
 
 </div>
 
